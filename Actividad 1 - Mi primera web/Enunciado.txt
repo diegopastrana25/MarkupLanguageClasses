@@ -1,0 +1,15 @@
+ACTIVIDAD 1 
+Mi primera web 
+Una de las claves del desarrollo web, en lo que a maquetación se refiere, consiste en crear una 
+web funcional a partir de una imagen plana, lo que se conoce como un MockUp. Esta imagen 
+es creada por diseñadores en base a las especificaciones de la empresa o el particular para el 
+que se trabaje en esa ocasión. 
+En esta actividad de clase vamos a intentar meternos en la piel de un programador web, y a 
+partir de un MockUp vamos a crearnos nuestra propia web en html siguiendo las 
+especificaciones que nos han dado. 
+De momento, no es necesario que añadamos elementos decorativos ni estilos puesto que solo 
+nos interesa conocer un poco cómo trabajar con estas etiquetas básicas. 
+Para desarrollar esta web haremos uso de las siguientes etiquetas de html: 
+h1, h2, h3, p, img. 
+Con el siguiente formato: 
+Se valorará: - La estructura del proyecto y la limpieza del código. - La similitud con el MockUp.
