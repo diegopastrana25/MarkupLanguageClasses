@@ -1,0 +1,8 @@
+ACTIVIDAD 6 
+CSS I 
+Maquetar lo siguiente utilizando css: 
+ La imagen a utilizar está adjunto a la actividad y con el nombre de “crown.png” 
+ Dicha imagen tendrá que tener un tamaño de 255px. 
+ El texto tendrá un tamaño de 80px y 40px y con el color “whiteSmoke”. 
+ El color rojo de fonde será “crimson”. 
+Se valorará: - La similitud con el modelo que se propone. - La estructura del proyecto y la limpieza del código. - La correcta utilización del CSS.
