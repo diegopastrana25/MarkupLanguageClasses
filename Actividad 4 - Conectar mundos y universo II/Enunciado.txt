@@ -1,0 +1,17 @@
+ACTIVIDAD 4 
+Conectar mundos y universo II 
+En esta actividad se realizará un cambio respecto la web de la actividad 3 donde los enlaces de 
+texto serán sustituidos imágenes de los respectivos planetas. Quedando tal que así: 
+En esta ocasión, los enlaces los hemos sustituido por imágenes de los correspondientes 
+planetas 1, 2 y 3 (ver la carpeta de resources en la actividad en Moodle). 
+La estructura del proyecto debe ser igual a la anterior (cada planeta en su correspondiente 
+galaxia) pero en esta ocasión vamos a crear un directorio llamado img que va a contener las 
+imágenes de cada planeta. 
+Para intentar mantener un estándar vamos a poner todas las imágenes con el mismo tamaño, 
+75px de ancho. Excepto cuando aparezcan en grande dentro de su propia web que le 
+pondremos un tamaño de 100px. 
+Este proyecto constará de 4 páginas: - index.html - mundo1.html - mundo2.html - mundo3.html 
+Y cuatro directorio que contendrán los siguientes elementos: - El mundo 1 (mundo1.html) se sitúa en la galaxia de Andrómeda. - El mundo 2 (mundo2.html) se sitúa en la galaxia de Barnard. - El mundo 3 (mundo3.html) se sitúa en la galaxia de Bode. - Una carpeta llamada img que contendrá todas las imágenes.   
+Para desarrollar estas webs haremos uso de las siguientes etiquetas de html: 
+<h2>, <a>, <img> 
+Se valorará: - La estructura del proyecto y la limpieza del código. - El correcto nombrado de los ficheros. - La funcionalidad
