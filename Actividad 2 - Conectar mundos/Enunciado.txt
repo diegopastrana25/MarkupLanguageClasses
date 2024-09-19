@@ -1,0 +1,13 @@
+ACTIVIDAD 2 
+Conectar mundos 
+La navegación entre las diferentes páginas webs es importante sobre todo a la hora de crear 
+proyectos, por eso es importante que sepamos manejarnos bien dentro de nuestra 
+arquitectura del proyecto.  
+En esta segunda actividad vamos a aprender cómo navegar correctamente entre las distintas 
+páginas webs que hayamos creado. Consiste en una web que te permite navegar por entre dos 
+diferentes mundos. Para hacer que esta web funcione vamos a crear dos páginas de html que 
+llamaremos mundo1.html y mundo2.html. 
+Para desarrollar estas webs haremos uso de las siguientes etiquetas de html: 
+<h1> y <a> 
+Con el siguiente formato: 
+Se valorará: - La estructura del proyecto y la limpieza del código. - El correcto nombrado de los ficheros. - La funcionalidad. 
