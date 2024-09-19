@@ -1,0 +1,10 @@
+ACTIVIDAD 5 
+Maquetar tablas 
+Antes de introducirnos de lleno en el mundo de la maquetación web compleja con el modelo 
+de cajas, es importante que conozcamos una forma alternativa pero funcional de hacer 
+maquetaciones de páginas web a través de tablas de html.  
+Para desarrollar esta web haremos uso de las siguientes etiquetas de html: 
+<table>, <th>, <tr> y <td> 
+Tabla a maquetar: 
+Colores a utilizar: - Gris clarito: #EFEFEF  - Negro: #000000  - Rojo: #FF0000  - Verde: #38761D 
+Se valorará: - La similitud con el modelo que se propone. - La estructura del proyecto y la limpieza del código. 
