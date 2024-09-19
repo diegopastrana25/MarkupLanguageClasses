@@ -1,0 +1,11 @@
+ACTIVIDAD 8 
+Sopa de letras 
+Estamos empezando a ver la potencia del CSS, pero también lo complicado que en ocasiones 
+puede llegar a ser. En esta actividad seguiremos jugando con las hojas de estilo para completar 
+la siguiente sopa de letras en html. 
+1. Completar una tabla de html con el siguiente aspecto. Es importante saber que tiene que 
+ser lo más parecida posible a la imagen propuesta. 
+2. Haciendo uso de las clases de html y la vinculación al CSS, vamos a marcar las siguientes 
+palabras en la sopa de letras con los colores que se piden: - Grape (uva): DarkSlateBlue. - Strawberry (Fresa): Crimson. - Orange (Naranja): Orange. - Apple (Manzana): Chartreuse. - Banana (Plátano): Gold. 
+De forma que al final se verá tal que así: 
+Se valorará: - La similitud con el modelo que se propone. - La estructura del proyecto y la limpieza del código. - La correcta utilización del CSS. 
