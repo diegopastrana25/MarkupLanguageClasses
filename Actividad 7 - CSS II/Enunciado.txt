@@ -1,0 +1,18 @@
+ACTIVIDAD 7 
+CSS II 
+Hasta la fecha hemos visto que podemos utilizar el CSS para darle el formato que queremos a 
+un determinado documento HTML. No obstante, el CSS ha evolucionado muchísimo de forma 
+que ha ido adquiriendo cada vez más características que hacen que sea una herramienta 
+mucho más potente. En esta actividad vamos a modificar la actividad anterior con lo siguiente: 
+1. El color del fondo tendrá que ir cambiando proceduralmente según los siguientes 
+colores: 
+Crimson, LightSkyBlue, Orange, Turquoise, Teal, yellowGreen 
+2. Las letras inicialmente serán transparentes, pero al pasar el ratón por encima pasarán a 
+ser un color sólido. 
+AYUDA: Los elementos que necesitan para hacer esta práctica son los eventos de hover de 
+CSS3 y el animations. 
+Recordar que están son las características en la actividad 6. 
+ La imagen a utilizar está adjunto a la actividad y con el nombre de “crown.png” 
+ La imagen tendrá que tener un tamaño de 255px. 
+ El texto tendrá un tamaño de 80px y 40px y con el color “whiteSmoke”. 
+Se valorará: - La similitud con el modelo que se propone. - La estructura del proyecto y la limpieza del código. - La correcta utilización del CSS.
