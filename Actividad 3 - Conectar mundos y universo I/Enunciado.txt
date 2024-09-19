@@ -1,0 +1,16 @@
+ACTIVIDAD 3 
+Conectar mundos y universo I 
+En esta actividad se mejorará la web de la actividad 2 de forma que podamos navegar entre 
+más mundos diferentes galaxias. Esta actividad constará de 4 páginas html: - index.html - mundo1.html - mundo2.html - mundo3.html 
+El mundo 1 (mundo1.html) se sitúa en la galaxia de Andrómeda. 
+El mundo 2 (mundo2.html) se sitúa en la galaxia de Barnard. 
+El mundo 3 (mundo3.html) se sitúa en la galaxia de Bode. 
+De forma que cada galaxia será un directorio en donde situaremos nuestra web. Es importante 
+que desde cada mundo (cada página html) podamos llegar a los otros mundos y también 
+podamos ir directamente al universo (index.html) desde el cual tenemos que poder acceder a 
+cualquier mundo directamente. En este proyecto, nos interesa más la funcionalidad que la 
+propia apariencia de la web por lo que una maquetación como la que se muestra a 
+continuación será más que suficiente. 
+Para desarrollar estas webs haremos uso de las siguientes etiquetas de html: 
+<h1> y <a> 
+Se valorará: - La estructura del proyecto y la limpieza del código. - El correcto nombrado de los ficheros. - La funcionalidad.
